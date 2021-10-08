@@ -1,0 +1,18 @@
+{
+  "scores" : [ {
+    "name" : "Bjarne Stroustrup",
+    "points" : 600
+  }, {
+    "name" : "Anders Hejlsberg",
+    "points" : 500
+  }, {
+    "name" : "Chris Lattner",
+    "points" : 400
+  }, {
+    "name" : "James Gosling",
+    "points" : 300
+  }, {
+    "name" : "Brendan Eich",
+    "points" : 200
+  } ]
+}
